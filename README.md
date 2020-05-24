@@ -2,4 +2,4 @@
 
 Programa desenvolvido para a matéria Linguagem de programação 2 - Faculdade Impacta
 
-Agenda de contatos - export json
+Agenda de contatos - utilização de json
